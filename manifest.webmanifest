@@ -1,0 +1,17 @@
+{
+  "name": "Bhabhi Card Tracker",
+  "short_name": "Bhabhi Tracker",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#111827",
+  "description": "A compact offline tracker for played cards in Bhabhi.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
